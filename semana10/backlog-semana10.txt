@@ -1,0 +1,11 @@
+
+
+1. **Como ciudadano**, quiero registrar una solicitud comunitaria para que las autoridades puedan hacer seguimiento y dar una respuesta oportuna.
+
+2. **Como integrante de una veeduría ciudadana**, quiero consultar el estado de los reportes enviados para verificar el avance de cada caso.
+
+3. **Como líder comunitario**, quiero recibir notificaciones por Telegram cuando se registre una nueva incidencia para coordinar acciones rápidamente.
+
+4. **Como administrador de la plataforma**, quiero organizar las solicitudes por prioridad para atender primero las situaciones más urgentes.
+
+5. **Como habitante de la comunidad**, quiero adjuntar fotografías como evidencia en un reporte para respaldar la información enviada.

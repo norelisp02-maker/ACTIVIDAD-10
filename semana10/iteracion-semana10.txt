@@ -1,0 +1,18 @@
+**1. ¿Qué 2 tareas del backlog harías primero?**
+
+* Crear el formulario para registrar solicitudes o reportes comunitarios.
+* Implementar el almacenamiento de las solicitudes en una base de datos.
+
+**2. ¿Por qué son las más importantes?**
+
+Porque son la base del sistema. Sin el formulario y el almacenamiento de la información, los usuarios no podrían registrar ni consultar los reportes comunitarios.
+
+**3. ¿Qué significa para ti que una tarea esté “terminada”?**
+
+Una tarea está terminada cuando cumple con los requisitos establecidos, funciona correctamente y está lista para ser utilizada.
+
+**Definición simple de terminado:**
+
+* ✅ Funciona correctamente sin errores.
+* ✅ Fue probada y los resultados son correctos.
+* ✅ Quedó registrada en Git con su respectivo commit.
